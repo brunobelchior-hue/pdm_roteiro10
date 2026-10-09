@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#111111</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">SGM - Sistema de Gestão</string>
+    <style name="Theme.SGM" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/primary</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>

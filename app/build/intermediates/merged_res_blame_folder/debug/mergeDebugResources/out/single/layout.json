@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.sgm.app-mergeDebugResources-27:/layout/fragment_veiculos.xml",
+        "source": "com.example.sgm.app-main-30:/layout/fragment_veiculos.xml"
+    },
+    {
+        "merged": "com.example.sgm.app-mergeDebugResources-27:/layout/fragment_inicio.xml",
+        "source": "com.example.sgm.app-main-30:/layout/fragment_inicio.xml"
+    },
+    {
+        "merged": "com.example.sgm.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.example.sgm.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sgm.app-mergeDebugResources-27:/layout/fragment_clientes.xml",
+        "source": "com.example.sgm.app-main-30:/layout/fragment_clientes.xml"
+    },
+    {
+        "merged": "com.example.sgm.app-mergeDebugResources-27:/layout/fragment_sobre.xml",
+        "source": "com.example.sgm.app-main-30:/layout/fragment_sobre.xml"
+    }
+]

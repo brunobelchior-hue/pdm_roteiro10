@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color primary
+color primary_dark
+color white
+id btnClientes
+id btnInicio
+id btnInicioClientes
+id btnInicioVeiculos
+id btnSalvarCliente
+id btnSalvarVeiculo
+id btnSobre
+id btnVeiculos
+id edtMarca
+id edtModelo
+id edtNome
+id edtTelefone
+id edtValor
+id fragmentContainer
+id progressLoading
+id txtClientes
+id txtVeiculos
+layout activity_main
+layout fragment_clientes
+layout fragment_inicio
+layout fragment_sobre
+layout fragment_veiculos
+string app_name
+style Theme.SGM

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.sgm.app-mergeDebugResources-26:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\IFTM\\.gradle\\caches\\8.13\\transforms\\17275e09dae5242f9ade22265c64a6b2\\transformed\\appcompat-1.7.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
